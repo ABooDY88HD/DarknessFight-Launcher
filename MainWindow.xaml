@@ -1,0 +1,44 @@
+﻿<Window x:Class="Infinite_Darkness_Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Infinite_Darkness_Launcher"
+        mc:Ignorable="d"
+        Title="DarknessFight" Height="520" Width="900" WindowStyle="None" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Initialized="Window_Initialized" Closing="Window_Closing" Icon="MXDual.png.ico">
+    <Window.Background>
+        <ImageBrush/>
+    </Window.Background>
+    <Grid>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="521" Margin="0,0,0,-1" VerticalAlignment="Top" Width="900" Source="DF-Launcher-BG.png" Stretch="Fill"/>
+        <ProgressBar x:Name="updateProgress" HorizontalAlignment="Left" Height="16" Margin="34,494,0,0" VerticalAlignment="Top" Width="460" RenderTransformOrigin="0.5,0.5" IsTabStop="False" Background="White" BorderBrush="{x:Null}" Foreground="#FF06B025" IsIndeterminate="True">
+            <ProgressBar.Effect>
+                <BlurEffect RenderingBias="Quality"/>
+            </ProgressBar.Effect>
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-53.973"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-6.875"/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Label x:Name="lbUpdates" Content="Checking for updates..." HorizontalAlignment="Left" Margin="39,467,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lbUpdatePercentage" Content="0%" HorizontalAlignment="Left" Margin="497,488,0,0" VerticalAlignment="Top" Foreground="#FFC9C9C9" RenderTransformOrigin="0.458,0.353"/>
+        <Image x:Name="btnStart" HorizontalAlignment="Left" Height="48" Margin="722,467,0,0" VerticalAlignment="Top" Width="168" Source="play_off.png" MouseLeftButtonUp="btnStart_MouseLeftButtonUp"/>
+        <Image x:Name="btnClose" HorizontalAlignment="Left" Height="22" Margin="878,0,0,0" VerticalAlignment="Top" Width="22" RenderTransformOrigin="-0.031,0.281" Source="bgtest.png" Stretch="None" MouseLeftButtonUp="imgClose_MouseLeftButtonUp" Panel.ZIndex="1" OpacityMask="#FF575757"/>
+        <Image x:Name="image1_Copy" HorizontalAlignment="Left" Height="22" Margin="856,0,0,0" VerticalAlignment="Top" Width="22" RenderTransformOrigin="-0.031,0.281" Source="Minimize_16x.png" Stretch="None" MouseLeftButtonUp="imgMinimize_MouseLeftButtonUp" Panel.ZIndex="1"/>
+        <Image x:Name="btnSettings_Copy" HorizontalAlignment="Left" Height="22" Margin="834,0,0,498" VerticalAlignment="Bottom" Width="22" RenderTransformOrigin="-0.031,0.281" Source="Settings_32x.png" Stretch="Fill" MouseLeftButtonUp="btnSettings_MouseLeftButtonUp" Panel.ZIndex="1"/>
+        <Grid HorizontalAlignment="Left" Height="206" Margin="602,177,0,0" VerticalAlignment="Top" Width="288" Background="#9A000000">
+            <Label x:Name="label_Copy1" Content="" HorizontalAlignment="Left" Foreground="#FFC9C9C9" VerticalAlignment="Top" Margin="9,9,0,0"/>
+            <Label x:Name="label_Copy2" Content="" HorizontalAlignment="Left" Foreground="#FFC9C9C9" VerticalAlignment="Top" Margin="9,40,0,0"/>
+            <Label x:Name="label_Copy3" Content="" HorizontalAlignment="Left" Foreground="#FFC9C9C9" VerticalAlignment="Top" Margin="9,71,0,0"/>
+            <Label x:Name="label_Copy4" Content="" HorizontalAlignment="Left" Foreground="#FFC9C9C9" VerticalAlignment="Top" Margin="10,102,0,0"/>
+            <Label x:Name="label_Copy5" Content="" HorizontalAlignment="Left" Foreground="#FFC9C9C9" VerticalAlignment="Top" Margin="10,133,0,0"/>
+            <Label x:Name="label_Copy" Content="" HorizontalAlignment="Left" Foreground="#FFC9C9C9" VerticalAlignment="Top" Margin="10,164,0,0"/>
+        </Grid>
+    </Grid>
+</Window>
+
+    

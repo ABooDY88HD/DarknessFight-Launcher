@@ -1,0 +1,41 @@
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\bin\Release\Launcher.exe.config
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\bin\Release\Launcher.exe
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\bin\Release\Launcher.pdb
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Infinite Darkness Launcher.csprojResolveAssemblyReference.cache
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\MainWindow.g.cs
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\App.g.cs
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher_MarkupCompile.cache
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher_MarkupCompile.lref
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\MainWindow.baml
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher.g.resources
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Infinite_Darkness_Launcher.Properties.Resources.resources
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Infinite Darkness Launcher.csproj.GenerateResource.Cache
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher.exe
+J:\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher.pdb
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\bin\Release\Launcher.exe.config
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\bin\Release\Launcher.exe
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\bin\Release\Launcher.pdb
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\MainWindow.g.cs
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\App.g.cs
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher_MarkupCompile.cache
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher_MarkupCompile.lref
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\MainWindow.baml
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher.g.resources
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Infinite_Darkness_Launcher.Properties.Resources.resources
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Infinite Darkness Launcher.csproj.GenerateResource.Cache
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher.exe
+C:\Users\marce\OneDrive\Visual Studio\Projects\Infinite Darkness Launcher\Infinite Darkness Launcher\obj\Release\Launcher.pdb
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\MainWindow.g.cs
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\App.g.cs
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\MainWindow.baml
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\Infinite_Darkness_Launcher.Properties.Resources.resources
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\Infinite Darkness Launcher.csproj.GenerateResource.Cache
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\Infinite Darkness Launcher.csprojResolveAssemblyReference.cache
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\bin\Release\Launcher.exe.config
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\bin\Release\Launcher.exe
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\bin\Release\Launcher.pdb
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\Launcher_MarkupCompile.cache
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\Launcher_MarkupCompile.lref
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\Launcher.g.resources
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\Launcher.exe
+G:\DarknessFight Development\DarknessFight Launcher\Infinite Darkness Launcher\obj\Release\Launcher.pdb
